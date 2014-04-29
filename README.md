@@ -9,7 +9,7 @@ Guide:  <br/>
 4. Double-click the file and type in your password and ENTER  <br/>
 5. What happened: a: Some packages was installed, b: a Shairport folder was created in your Documents folder, c: a run-shairport.sh was created on your desktop  <br/>
 6. Just as step 3, allow to execute as a program - close  <br/>
-7. Double click the 'run_shairport.sh' on your desktop and see if you can find airplay on your iOS- or your rooted Android device :)  <br/>
+7. Double click the 'run_shairport.sh' on your desktop and see if you can find 'Shairport' on your iOS- or your rooted Android device :)  <br/>
 
 src: https://github.com/abrasive/shairport
 
