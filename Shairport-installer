@@ -2,7 +2,7 @@
 
 sudo apt-get install unzip make gcc openssl pkg-config libssl-dev libavahi-client-dev libasound2-dev
 
-sudo apt­get install libpulse­dev
+sudo apt-­get install libpulse­dev
 
 cd ~/Documents
 
