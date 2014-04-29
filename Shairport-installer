@@ -28,7 +28,7 @@ sudo make install
 
 cd ~/Desktop
 echo "
-#!/bin/sh
+#!/bin/bash
 cd ~/Documents/shairport/shairport-master
 ./shairport -a 'Shairport' -d
 
