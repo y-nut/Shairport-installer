@@ -2,7 +2,12 @@
 
 sudo apt-get install unzip make gcc openssl pkg-config libssl-dev libavahi-client-dev libasound2-dev
 
+#This won't install with the others, therefore it stands alone
 sudo apt-­get install libpulse­dev
+
+#Monitor drivers for AMD graphics card (Optional):
+#sudo apt-get install gimp-help-en gimp-help-common  XFree86-Mesa-libGL   libstdc++   libgcc  XFree86-libs  fontconfig  freetype  zlib  
+
 
 cd ~/Documents
 
