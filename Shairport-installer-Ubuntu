@@ -34,3 +34,8 @@ cd ~/Documents/shairport/shairport-master
 
 read
 " >> run_shairport.sh
+
+#remove lock
+chmod +x run_shairport.sh
+
+bash run_shairport.sh
