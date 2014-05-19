@@ -2,6 +2,7 @@ Shairport-installer
 ===================
 
 Install Shairport (Airplay-ish) on your Ubuntu/Mint Desktop  <br/>
+Succesfully tested on MInt 16 Cinnamon and Ubuntu 12.04 LTS, probably would work on VM for MS too<br/>
 Guide:  <br/>
 1. Download 'install-Shairport.sh' to any location on your Linux machine <br/>
 2. Right-click the file and open 'Properties'  <br/>
