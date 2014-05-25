@@ -4,11 +4,16 @@ The 'shairport-installer.sh' script installs an Airport-like server on your Debi
 The Shairport system should work for Fedora users as well but they need to check if the packages in the script suits their distro and find its equivalent if not.<br/>
 First time you run the 'shairport-installer' script the shairport server will start automatically but when you want to start it next time you should run the 'run_shairport' script created on your desktop. 
 
-<h3>Guide:</h3>
+<h3>Step by step guide to install Shairport on your Debian machine:</h3>
 <ol>
-<li>Download 'shairport-installer.sh' to any location on your Linux machine - the desktop for instance</li>
-<li>Use the terminal to get directed to the file location; <code>cd Desktop</code></li>
-<li>Install shairport, create run_shairport.sh on desktop and run shairport first time by executing the command: <code>sudo sh shairport-installer.sh</code></li>
+<li>Download the 'shairport-installer.sh:<br/>
+<code>cd Download<br/>
+wget https://github.com/y-nut/Shairport-installer/archive/master.zip<br/>
+unzip master.zip<br/>
+cd Shairport-installer-master</code>
+
+<li>Install shairport, create run_shairport.sh on desktop and run shairport first time by executing the command:<br/>
+<code>sudo sh shairport-installer.sh</code></li>
 <li>Now the shairport server should run in your terminal:<br/>
 <code>Listening for connections.<br/>
 11758</code> (new number each run)<br/>
