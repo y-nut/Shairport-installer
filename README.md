@@ -8,7 +8,7 @@ First time you run the 'shairport-installer' script the shairport server will st
 <ol>
 <li>Download 'shairport-installer.sh' to any location on your Linux machine - the desktop for instance</li>
 <li>Use the terminal to get directed to the file location; <code>cd Desktop</code></li>
-<li>Install shairport, create run_shairport.sh on desktop and run shairport first time: <code>sudo sh shairport-installer.sh</code></li>
+<li>Install shairport, create run_shairport.sh on desktop and run shairport first time by executing the command: <code>sudo sh shairport-installer.sh</code></li>
 <li>Now the shairport server should run in your terminal:<br/>
 <code>Listening for connections.<br/>
 11758</code> (new number each run)<br/>
