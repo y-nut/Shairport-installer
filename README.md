@@ -7,7 +7,8 @@ The Shairport system should work for Fedora users as well but they need to check
 <h3>Step by step guide to install Shairport on your Debian machine:</h3>
 <ol>
 <li>In terminal write:<br/>
-<code>cd Download</code><br/>
+<code>cd </code><br/>
+<code>cd Downloads</code><br/>
 <code>wget https://github.com/y-nut/Shairport-installer/archive/master.zip</code><br/>
 <code>unzip master.zip</code><br/>
 <code>cd Shairport-installer-master</code><br/>
