@@ -7,7 +7,7 @@ First time you run the 'shairport-installer' script the shairport server will st
 <h3>Step by step guide to install Shairport on your Debian machine:</h3>
 <ol>
 <li>Download the 'shairport-installer.sh:<br/>
-<code>cd Download<br/>
+<code>cd Download</code>
 wget https://github.com/y-nut/Shairport-installer/archive/master.zip<br/>
 unzip master.zip<br/>
 cd Shairport-installer-master</code>
