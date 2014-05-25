@@ -9,8 +9,12 @@ First time you run the 'shaiport-installer' script the shairport server will sta
 <li>Download 'shairport-installer.sh' to any location on your Linux machine - the desktop for instance</li>
 <li>Use the terminal to get directed to the file location; <code>cd Desktop</code></li>
 <li>Install shairport, create run_shairport.sh on desktop, run shairport first time: <code>sudo sh shairport-installer.sh</code></li>
-<li>Look for 'Shairport' on your Airplay device. If you can find it and airplay music the mission is accomplished. You can now remove the 'shairport-installer.sh' file</li>
+<li>Now the shairport server should run in your terminal:<br/>
+<code>Listening for connections.<br/>
+11758</code><br/>
+Look for 'Shairport' on your Airplay device. If you can find it and airplay music the mission is accomplished. You can now remove the 'shairport-installer.sh' file</li>
 </ol>
 
+Feel free to comment below if you'd like to have a Youtube walkthrough.<br/>
 src: https://github.com/abrasive/shairport
 
