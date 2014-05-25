@@ -14,8 +14,8 @@ The Shairport system should work for Fedora users as well but they need to check
 <li>Install shairport, create run_shairport.sh on desktop, save abrasive directory to Documents and run shairport first time by executing the command:<br/>
 <code>sudo sh shairport-installer.sh</code></li>
 <li>Now the shairport server should run in your terminal:<br/>
-<code>Listening for connections.<br/>
-11758</code> (new number each run)<br/>
+<code>Listening for connections.</code><br/>
+<code>11758</code> (new number each run)</code><br/>
 Look for 'Shairport' on your Airplay device and play music. If it works, you can then remove the 'shairport-installer.sh' file.</li>
 </ol>
 
