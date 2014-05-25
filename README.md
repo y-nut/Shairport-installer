@@ -14,7 +14,7 @@ The Shairport system should work for Fedora users as well but they need to check
 <code>sudo rm -rf master.zip</code><br/>
 <code>cd Shairport-installer-master</code><br/>
 <li>Install shairport, create run_shairport.sh on desktop, save abrasive directory to Documents and run shairport first time by executing the command:<br/>
-<code>sudo sh shairport-installer.sh</code></li>
+<code>sudo sh shairport-installer-Debian.sh</code></li>
 <li>Now the shairport server should run in your terminal:<br/>
 <code>Listening for connections.</code><br/>
 <code>11758</code> (new number each run)</code><br/>
