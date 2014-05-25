@@ -7,11 +7,10 @@ First time you run the 'shairport-installer' script the shairport server will st
 <h3>Step by step guide to install Shairport on your Debian machine:</h3>
 <ol>
 <li>Download the 'shairport-installer.sh:<br/>
-<code>cd Download</code>
-wget https://github.com/y-nut/Shairport-installer/archive/master.zip<br/>
-unzip master.zip<br/>
-cd Shairport-installer-master</code>
-
+<code>cd Download</code><br/>
+<code>wget https://github.com/y-nut/Shairport-installer/archive/master.zip</code><br/>
+<code>unzip master.zip</code><br/>
+<code>cd Shairport-installer-master</code><br/>
 <li>Install shairport, create run_shairport.sh on desktop and run shairport first time by executing the command:<br/>
 <code>sudo sh shairport-installer.sh</code></li>
 <li>Now the shairport server should run in your terminal:<br/>
