@@ -11,6 +11,7 @@ The Shairport system should work for Fedora users as well but they need to check
 <code>cd Downloads</code><br/>
 <code>wget https://github.com/y-nut/Shairport-installer/archive/master.zip</code><br/>
 <code>unzip master.zip</code><br/>
+<code>sudo rm -rf master.zip</code><br/>
 <code>cd Shairport-installer-master</code><br/>
 <li>Install shairport, create run_shairport.sh on desktop, save abrasive directory to Documents and run shairport first time by executing the command:<br/>
 <code>sudo sh shairport-installer.sh</code></li>
