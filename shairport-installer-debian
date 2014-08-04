@@ -1,8 +1,9 @@
 #!/bin/sh
 
 apt-get update
-sudo apt-get install unzip make gcc openssl pkg-config libssl-dev libavahi-client-dev libasound2-dev libpulse-­dev build-essential mesa-utils libao-common libcrypt-openssl-rsa-perl libao-dev libio-socket-inet6-perl libwww-perl avahi-utils  libshairport1 libshairport-dev libasound2-doc libglib2.0-doc -y
+sudo apt-get install unzip make gcc openssl pkg-config libavahi-client-dev libasound2-dev libpulse-­dev build-essential mesa-utils libao-common libcrypt-openssl-rsa-perl libao-dev libio-socket-inet6-perl libwww-perl avahi-utils  libshairport1 libshairport-dev libasound2-doc libglib2.0-doc -y
 apt-get autoremove -y
+sudo apt-get install libssl-dev -y
 apt-get update
 
 cd ~/Documents
